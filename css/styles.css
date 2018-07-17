@@ -1,0 +1,45 @@
+.container {
+    text-align: center;
+    background-color: #DCDCD1;
+    font-family: 'Exo 2', sans-serif;
+}
+
+#won,
+#lost {
+    display: none;
+}
+
+#word,
+#letters {
+    padding: 20px 0px;
+}
+
+#man {
+    margin: 20px auto;
+    width: 600px;
+    height: 450px;
+    background-color: #778899;
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+#word {
+    font-size: 1.8em;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.hint {
+    font-size: 0.6 !important;
+}
+
+.btn {
+    padding: 7px 7px !important;
+    margin: 0px 2px;
+}
+
+label {
+    font-size: 150%;
+    text-decoration: underline;
+
+}
